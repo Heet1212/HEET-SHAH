@@ -12,6 +12,6 @@ def upper(t):
     return f1
 #line
 #hell this is check for pull 
-print("hello  python world  how are you fine ????  or nottttt dadadadadadada  learngit coomee  jay hind")
+print("hello  python world  how are you fine ????  or nottttt dadadadadadada  learngit coomee")
 text=upper(text)
 print(text("hello"))
